@@ -1,4 +1,3 @@
- #things i remeber
 import random
 import sys
 print("Hello, Welcome!")
