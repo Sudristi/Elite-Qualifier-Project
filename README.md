@@ -12,7 +12,7 @@ A bot that responds to users input about the question, "How was your day?"
 
 ## Background
 
-This exists so users could tell someone about their day.
+This exists so users could talk about their day. 
 
 ## Install
 
