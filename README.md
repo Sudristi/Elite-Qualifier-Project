@@ -1,6 +1,6 @@
 # Chatbot
 
-Simple (or clever and funny?) description
+A bot that responds to users input about the question, "How was your day?"
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+This exists so users could tell someone about their day.
 
 ## Install
 
@@ -20,6 +20,6 @@ These are the steps to setup your local environment to run this application.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+Answer the questions asked and recive responses for each input. 
 
 ### Any optional sections
