@@ -1,9 +1,7 @@
 import random
-import sys
 print("Hello, Welcome!")
 print()
 name = input('What is your name?\n')
-answer=input(f'\nHow was your day {name}?\n')
 def bot_answers(input):
  answers_choices = [
   f"That's Nice! {name}",
@@ -12,7 +10,11 @@ def bot_answers(input):
   'Really!'
 ]
  return random.choice(answers_choices)
+  
+quit_letter = 'q'
 
-while answer != "q":
-  answer = input(bot_answers(answer)+"\n")
-sys.exit("Program quit")
+answer=input(f'\nHow was your day {name}?\n')
+
+while answer != quit_letter:
+   answer = input(bot_answers(answer)+"\n")
+print("Have a great rest of your day!")

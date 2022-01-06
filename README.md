@@ -1,4 +1,4 @@
-# Chatbot
+# Daily Chatbot
 
 A bot that responds to users input about the question, "How was your day?"
 
@@ -12,14 +12,14 @@ A bot that responds to users input about the question, "How was your day?"
 
 ## Background
 
-This exists so users could talk about their day. 
+This exists so users could talk about their day, even if there is no one  avaliable to listen to them. 
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+Run the program by clicking the run button. 
 
 ## Usage
 
-Answer the questions asked and recive responses for each input. 
+Type in how your day went and recive little pieces of encouragement back!
 
-### Any optional sections
+### Have a great day!!♡
