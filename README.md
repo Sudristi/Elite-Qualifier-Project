@@ -22,4 +22,11 @@ Run the program by clicking the run button.
 
 Type in how your day went and recive little pieces of encouragement back!
 
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
+
 ### Have a great day!!♡
