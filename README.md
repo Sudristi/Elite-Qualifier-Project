@@ -28,6 +28,5 @@ To test the project:
 
 1.  Run the test
 2.  Check the results
-3.  Submit a report
-
+3.  Submit test result or report
 ### Have a great day!!♡
